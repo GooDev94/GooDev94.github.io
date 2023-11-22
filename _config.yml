@@ -57,8 +57,8 @@ menu:
   - title:             Dev Note
     url:               /dev/
     submenu:
-      - title:         Javascript
-        url:           /javascript
+      - title:         Git
+        url:           /git
   - title:             Study Note
     url:               /study/
     submenu:

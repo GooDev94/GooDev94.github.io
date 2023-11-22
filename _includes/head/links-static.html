@@ -5,6 +5,10 @@
 
 <link rel="manifest" href="{{ '/assets/site.webmanifest' | relative_url }}">
 
+<!-- For sidebar folder -->
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<script src="/assets/js/sidebar-folder.js"></script>
+
 {% if site.google_fonts %}
   {%- capture google_fonts_url %}{{ site.google_fonts_url | default:'https://fonts.googleapis.com' }}{%- endcapture -%}
   <link rel="dns-prefetch" href="{{ google_fonts_url }}">

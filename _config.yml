@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Categories
-    url:               /categories/
+    url:               /category/
   - title:             Example
     url:               /example/
   - title:             Documentation
@@ -423,3 +423,7 @@ jekyll_compose:
       links:
         - title: Project Link
           url: https://example.com
+
+
+#category
+cateory_list: [gitblog, javascript, java, DB, talking]

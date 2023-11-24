@@ -2,7 +2,7 @@
 layout: post
 title:  git err) LF will be replaced by CRLF  the neect time Git touches it
 date:   2023-11-22 21:15:18 +0900
-categories: git 2023
+categories: Git 2023
 tag: Git
 ---
 

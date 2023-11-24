@@ -1,7 +1,7 @@
 ---
 layout: list
 type: category
-title: Dev note
+title: dev
 slug: dev
 sidebar: true
 order: 2

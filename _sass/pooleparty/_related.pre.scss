@@ -26,6 +26,17 @@
 }
 // >>>>>
 
+.related-posts_tags {
+  padding-left: 20px;
+  list-style: none;
+  margin-bottom: 2rem;
+
+  > li,
+  > li + li {
+    margin-top: 1rem;
+  }
+}
+
 // <<< link
 .comments {
   @media print {

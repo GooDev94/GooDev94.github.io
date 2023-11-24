@@ -3,6 +3,7 @@ layout: post
 title:  git err) LF will be replaced by CRLF  the neect time Git touches it
 date:   2023-11-22 21:15:18 +0900
 categories: git 2023
+tag: Git
 ---
 
 React 실습하는 도중에 package-lock.json과 package.json 파일을 add 하는데 에러메시지가 발생했다.

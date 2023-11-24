@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: Javascript
-slug: Javascript
+title: Git
+slug: git
 category: dev
 sidebar: true
 order: 1
 description: >
-   dev javascript
+   dev git
 ---

@@ -59,11 +59,17 @@ menu:
     submenu:
       - title:         Git
         url:           /git
+      - title:         Frontend
+        url:           /frontend
+      - title:         Backend
+        url:           /backend 
   - title:             Study Note
     url:               /study/
     submenu:
-      - title:         React
-        url:           /react
+      - title:         Algorithm
+        url:           /algorithm
+      - title:         Dev Tip
+        url:           /tip
   - title:             Tags
     url:               /tags/      
   - title:             About

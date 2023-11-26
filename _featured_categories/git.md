@@ -2,7 +2,7 @@
 layout: list
 type: category
 title: Git
-slug: Git
+slug: git
 sidebar: true
 order: 2
 description: >

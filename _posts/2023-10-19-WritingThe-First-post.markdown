@@ -2,7 +2,9 @@
 layout: post
 title:  첫 포스팅을 작성하다!
 date:   2023-10-11 20:26:18 +0900
-categories: categories Talking
+categories: 
+    - study
+    - talking
 ---
 그동안 개발 블로그를 작성해왔지만 바쁘다는 핑계로 꾸준히 블로그에 작성하지 못하고 **Tistory, Notion, 메모장** 등 분산해서 작성해왔다.
 

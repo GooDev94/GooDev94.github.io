@@ -66,10 +66,14 @@ menu:
   - title:             Study Note
     url:               /study/
     submenu:
+      - title:         Blog
+        url:           /blog
       - title:         Algorithm
         url:           /algorithm
       - title:         Dev Tip
         url:           /tip
+      - title:         Talking
+        url:           /talking
   - title:             Tags
     url:               /tags/      
   - title:             About

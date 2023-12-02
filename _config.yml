@@ -60,7 +60,7 @@ menu:
       - title:         Git
         url:           /git
       - title:         Javascript
-        url:           /Javascript
+        url:           /javascript
       - title:         Backend
         url:           /backend 
       - title:         DB

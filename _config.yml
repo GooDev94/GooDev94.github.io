@@ -59,10 +59,12 @@ menu:
     submenu:
       - title:         Git
         url:           /git
-      - title:         Frontend
-        url:           /frontend
+      - title:         Javascript
+        url:           /Javascript
       - title:         Backend
         url:           /backend 
+      - title:         DB
+        url:           /db
   - title:             Study Note
     url:               /study/
     submenu:

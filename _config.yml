@@ -61,8 +61,8 @@ menu:
         url:           /git
       - title:         Javascript
         url:           /javascript
-      - title:         Backend
-        url:           /backend 
+      - title:         Java
+        url:           /java
       - title:         DB
         url:           /db
   - title:             Study Note

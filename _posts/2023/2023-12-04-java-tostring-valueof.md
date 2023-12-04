@@ -53,6 +53,8 @@ null인 값을 형 변환하게 되면 NullPointerException (NPE) 발생
         return obj == null ? "블로그 방문환영" : String.valueOf(obj);
     }
 ~~~
+<br>
+<img width="300" alt="image" src="https://github.com/GooDev94/GooDev94.github.io/assets/54229410/2815cbce-d151-48f1-b9da-79c7330857e5">
 
 ### 3. 추천
 toString()은 NullPointerException이 발생할 수 있다는 점에서 **String.valueOf()**를 사용하는 것이 안정적이다.

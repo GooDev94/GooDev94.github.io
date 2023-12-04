@@ -6,6 +6,8 @@ categories:
     - dev
     - java
 tag: Java
+related_posts:
+  - _posts/2023/2023-12-04-java-error-cast-string.md
 ---
 
 - Table of Contents

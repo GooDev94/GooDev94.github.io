@@ -8,6 +8,8 @@ categories:
 tag: Java
 related_posts:
   - _posts/2023/2023-12-04-java-tostring-valueof.md
+  - _posts/2023/2023-12-04-cannot-be-cast-to-integer.md
+  
 ---
 
 - Table of Contents

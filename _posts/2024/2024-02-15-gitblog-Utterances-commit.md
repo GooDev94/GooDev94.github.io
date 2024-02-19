@@ -48,21 +48,22 @@ repository 를 잘못 정의했을 경우 오류가 발생한다.
 <br>
 
 
-### 5. Enable utterances의 코드를 복사하하여 댓글 구현을 담당하는 레이아웃 파일에 해당 코드를 추가한다.
+### 5. Enable utterances의 코드를 복사하여 댓글 구현을 담당하는 레이아웃 파일에 해당 코드를 추가한다.
 - 아래의 코드에서 repo가 띄어쓰기가 들어가지 않았는지 확인한다. 첨부 이미지의 경우 오류가 났던 상태에서 캡쳐하여 띄어쓰기가 들어가서 오류 발생(ㅠㅠ)
 <img width="884" alt="image" src="https://github.com/GooDev94/GooDev94.github.io/assets/54229410/bc78e7d2-68a3-4930-9b38-9e7f19cd3f5e">
 <br>
 
-### 6. 해당 블로그의 경우 post.html 에서 comments.html 를 구현하고 있었기 때문에 comments.html에 복사한 코드를 추가하였다.
-
+- 해당 블로그의 경우 post.html 에서 comments.html 를 구현하고 있었기 때문에 comments.html에 복사한 코드를 추가하였다.
+- 해당 블로그의 레이아웃은 comments라는 속성이 있어야 적용 때문에 글 작성 시 **comments: true** 로 속성을 부여한다. (댓글을 사용하지 않을 경우 false)
+<br>
 <img width="884" alt="image" src="https://github.com/GooDev94/GooDev94.github.io/assets/54229410/66db048d-fee7-4961-89b2-977253ea922e"><br><br>
 <img width="884" alt="image" src="https://github.com/GooDev94/GooDev94.github.io/assets/54229410/c59bd835-3310-41d8-87e1-0da3c97077cd">
 <br>
 
-### 7. 댓글 테스트
+### 6. 댓글 테스트
 <img width="884" alt="image" src="https://github.com/GooDev94/GooDev94.github.io/assets/54229410/4ddee02a-104e-40a9-8ca0-7cbbb52a064d">
 
 <br>
 
-### 8. 댓글이 잘 작성되면 정의했던 repository의 Issues에서 확인이 가능하다.
+### 7. 댓글이 잘 작성되면 정의했던 repository의 Issues에서 확인이 가능하다.
 <img width="884" alt="image" src="https://github.com/GooDev94/GooDev94.github.io/assets/54229410/d6fac260-ce94-4f88-b126-ecb27831028b">

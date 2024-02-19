@@ -8,6 +8,7 @@ categories:
 tag: Java
 related_posts:
   - _posts/2024/2024-02-14-algorithm-baekjoon15552.md
+comments: true
 ---
 
 - Table of Contents
